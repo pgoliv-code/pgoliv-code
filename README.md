@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @pgoliv-code
 - 👀 I’m interested in learning languages and developing exciting projects!
 - 🌱 I’m currently learning web development fundamentals
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on small and exciting projects! For now, I'm more experienced in FrontEnd.
+- 📫 How to reach me: (:
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I tried being a lawyer and an administrative assist. before. LOL
 
 <!---
 pgoliv-code/pgoliv-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
