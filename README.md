@@ -6,6 +6,14 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I tried being a lawyer and an administrative assistant before. LOL
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pgolivcode&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!---
 pgoliv-code/pgoliv-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
