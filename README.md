@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I tried being a lawyer and an administrative assistant before. LOL
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact-layout)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compactlayout)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
