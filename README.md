@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m Priscila!
 - 👀 I’m interested in learning languages and developing exciting projects!
-- 🌱 I’m currently learning web development fundamentals. I'm enrolled in a Full Stack Dev Bootcamp.
-- 💞️ I’m looking forward to collaborating on small and exciting projects! For now, I'm more experienced in FrontEnd.
+- 🌱 I’m currently learning web development fundamentals. I have finished a Full Stack Web Dev Bootcamp!
+- 💞️ I’m currently working a full time job, so I´ll be focusing on that, while preparing a few small projects. For that reason, you may see my GitHub a bit quieter.
 - 📫 How to reach me: pguillen.oliv@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I tried being a lawyer and an administrative assistant before. That went well. LOL
