@@ -8,7 +8,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I tried being a lawyer and an administrative assistant before. That went well. LOL
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,css,cypress,discord,git,html,npm,postgres,postman,react,spring,vscode,windows&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,css,cypress,discord,git,html,npm,postgres,postman,react,spring,vscode,windows,rails,bootstrap&theme=dark)](https://skillicons.dev)
 
 <!---
 pgoliv-code/pgoliv-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
